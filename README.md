@@ -1,7 +1,7 @@
 # VictorySports
 Welcome to Victory Sports, the ultimate sports club for enthusiasts of all ages and skill levels! We pride ourselves on providing a safe and welcoming atmosphere where everyone can enjoy a wide range of activities. Whether you're a seasoned athlete or new to sports, Victory Sports is the place to be.
 
-![Sports Games](https://www.unb.ca/studentlife/_assets/images/inline-sj_clubs.jpg)
+<img src="https://www.unb.ca/studentlife/_assets/images/inline-sj_clubs.jpg" width="100%">
 
 At Victory Sports, we offer a diverse array of activities to cater to various interests and abilities. Here are some of the highlights:
 
